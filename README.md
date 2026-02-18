@@ -20,11 +20,10 @@
 
 ---
 
-## 🕴️About Me
+## About Me
 
 <table>
   <tr>
-    <!-- LEFT SIDE (TEXT) -->
     <td valign="top" width="60%">
 
 ### 👋 Hey, I'm Mudassar Khan!
@@ -37,14 +36,13 @@
 
 🎯 Mission: Build AI that is not just impressive — but **genuinely useful** in real-world environments
 
-</td>
-
-    <!-- RIGHT SIDE (IMAGE) -->
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
     </td>
 
-  </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+    </td>
+
+  </tr>
 </table>
 
 ---
