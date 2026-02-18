@@ -30,7 +30,7 @@
 <p>🏗️ My work goes beyond prototypes — I focus on <b>reliability</b>, <b>structured thinking</b>, and <b>scalable backend integration</b>.</p>
 <p>🎯 Mission: Build AI that is not just impressive — but <b>genuinely useful</b> in real-world environments.</p>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="60%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
     </td>
   </tr>
