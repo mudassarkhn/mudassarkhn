@@ -37,15 +37,14 @@
 
 🎯 Mission: Build AI that is not just impressive — but **genuinely useful** in real-world environments
 
-
-    </td>
+</td>
 
     <!-- RIGHT SIDE (IMAGE) -->
     <td align="center" width="40%">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
     </td>
 
-  </tr>
+  </td>
 </table>
 
 ---
