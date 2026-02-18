@@ -22,33 +22,38 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3eXFiNHhqaGVuNnM1aGZ2ZGhhMHhid2NkNjgycDZtNm1jbGN4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px; margin-left: 20px;"/>
+<table>
+  <tr>
+    <td valign="top" width="60%">
 
-```python
-class MudassarKhan:
-    role       = "AI Engineer"
-    experience = "1+ Year"
-    location   = "Pakistan 🇵🇰"
+### 👋 Hey, I'm Mudassar Khan!
 
-    specialties = [
-        "LLM-Powered Applications",
-        "RAG Pipelines",
-        "Agentic Workflows",
-        "Computer Vision",
-        "Backend Integration",
-    ]
+🤖 **AI Engineer** with **1+ year** of experience building intelligent systems powered by **LLMs** and **agent-based architectures**
 
-    current_focus = "Building AI that is not just
-                     impressive — but genuinely useful"
+🔍 I specialize in **domain-focused AI assistants**, **RAG pipelines**, and **multi-step agentic workflows** that connect data, reasoning, and APIs into real, production-ready applications
 
-    motto = "InshAllah 🌙"
+🏗️ My work goes beyond prototypes — I focus on **reliability**, **structured thinking**, and **scalable backend integration**
+
+🎯 Mission: Build AI that is not just impressive — but **genuinely useful** in real-world environments
+
+🌍 Based in **Pakistan 🇵🇰** &nbsp;|&nbsp; 🌙 **InshAllah**
+
+    </td>
+    <td valign="top" width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
+
+```
+🧠  LLM Applications
+🔗  RAG Pipelines
+🤖  Agentic Workflows
+👁️  Computer Vision
+⚙️  Backend Integration
 ```
 
-<br/>
-
-I'm an **AI Engineer** specializing in building intelligent systems powered by **large language models** and **agent-based architectures**. I design domain-focused AI assistants, **RAG pipelines**, and **multi-step agent workflows** that connect data, reasoning, and APIs into practical, production-ready applications.
-
-My work goes beyond prototypes — focusing on **reliability**, **structured thinking**, and **scalable backend integration**. I aim to build AI solutions that are not just impressive, but genuinely useful in real-world environments.
+    </td>
+  </tr>
+</table>
 
 ---
 
