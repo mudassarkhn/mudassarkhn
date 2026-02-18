@@ -4,21 +4,23 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Invisible+AI+That+Feels+Like+Magic+%F0%9F%A4%96;LLMs+%7C+RAG+Pipelines+%7C+AI+Agents+%E2%9A%A1;LangChain+%7C+LangGraph+%7C+FastAPI+%F0%9F%94%97;AI+Engineer+%40+NineSol+Technologies+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%8C%B1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+Invisible+AI+That+Feels+Like+Magic;LLMs+%7C+RAG+Pipelines+%7C+AI+Agents;LangChain+%7C+LangGraph+%7C+FastAPI;AI+Engineer+%40+NineSol+Technologies;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mudassarkhn&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1b2a)
+<img src="https://komarev.com/ghpvc/?username=mudassarkhn&amp;label=Profile+Views&amp;color=00d4ff&amp;style=for-the-badge&amp;labelColor=0d1b2a" alt="Profile Views" />
 &nbsp;
-![Status](https://img.shields.io/badge/Status-Available%20for%20Opportunities-00d4ff?style=for-the-badge&labelColor=0d1b2a)
+<img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-00d4ff?style=for-the-badge&amp;labelColor=0d1b2a" alt="Status" />
 &nbsp;
-![Location](https://img.shields.io/badge/Islamabad%2C%20Pakistan-00d4ff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1b2a)
+<img src="https://img.shields.io/badge/Islamabad%2C%20Pakistan-00d4ff?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white&amp;labelColor=0d1b2a" alt="Location" />
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3433343f666f726d61743d31303030772" />
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## 🧠 About Me
 
@@ -43,42 +45,48 @@ I specialize in **LLM-powered applications**, **RAG pipelines**, and **AI agents
 
 <div align="center">
 
-**🤖 Agentic AI &amp; LLMs**
+<p><strong>🤖 Agentic AI &amp; LLMs</strong></p>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00d4ff)
-![OpenAI](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=00d4ff" alt="LangGraph" />
+<img src="https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&amp;logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&amp;logoColor=white" alt="Qdrant" />
 
-**🧬 Core AI &amp; Computer Vision**
+<br/><br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+<p><strong>🧬 Core AI &amp; Computer Vision</strong></p>
 
-**⚙️ Dev &amp; Backend**
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&amp;logoColor=white" alt="Matplotlib" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<br/><br/>
 
-**☁️ Cloud &amp; Infrastructure**
+<p><strong>⚙️ Dev &amp; Backend</strong></p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+
+<br/><br/>
+
+<p><strong>☁️ Cloud &amp; Infrastructure</strong></p>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&amp;logo=zapier&amp;logoColor=white" alt="Zapier" />
 
 </div>
 
@@ -86,21 +94,17 @@ I specialize in **LLM-powered applications**, **RAG pipelines**, and **AI agents
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Description | Stack |
 |:--|:--|:--|
 | 🧠 [**AI Strategy Generator**](https://github.com/mudassarkhn) | 7-stage AI business strategy pipeline with Gemini and GPT via LangChain | `Python` `LangChain` `FastAPI` `Gemini` `GPT` |
-| 🧑‍💼 [**HR Attendance Assistant Bot**](https://github.com/mudassarkhn) | Natural language HR data querying — attendance, leave and performance insights | `SQL` `LLM` `LangChain` `Groq` `Qdrant` |
+| 🧑‍💼 [**HR Attendance Assistant Bot**](https://github.com/mudassarkhn) | Natural language HR data querying for attendance, leave and performance insights | `SQL` `LLM` `LangChain` `Groq` `Qdrant` |
 | 📺 [**YouTube Conversational Assistant**](https://github.com/mudassarkhn) | RAG-powered assistant that turns YouTube videos into interactive knowledge bases | `LangChain` `Gemini` `Qdrant` `Streamlit` |
 | 📚 [**AI Study Buddy**](https://github.com/mudassarkhn) | LangGraph multi-agent study planner with quiz generation and adaptive scheduling | `LangGraph` `FastAPI` `Groq` `MongoDB` |
 | 🌿 [**Crops Doctor**](https://github.com/mudassarkhn/leaflens-1.0-Plant-disease-detection-web-app-) | Flutter app detecting plant diseases via images with **94% accuracy** | `Flutter` `Gemini` `Firebase` |
 | 📖 [**Book Recommendation System**](https://github.com/mudassarkhn) | Collaborative filtering and popularity-ranked book suggestions | `Flask` `Python` `Scikit-learn` `Pandas` |
 | 🏢 [**Company RAG Chatbot**](https://github.com/mudassarkhn) | LangChain and Qdrant RAG chatbot for company knowledge base Q&A | `LangChain` `Qdrant` `Streamlit` |
 | ✍️ [**AI Essay Evaluator**](https://github.com/mudassarkhn) | LLM-powered essay analysis with syntax, semantics and style scoring | `Python` `LangGraph` `Gemini` |
-| 🚗 [**License Plate Analyzer**](https://github.com/mudassarkhn) | Real-time vehicle and license plate detection using YOLO + PaddleOCR | `Python` `YOLO` `PaddleOCR` `Flask` |
-
-</div>
+| 🚗 [**License Plate Analyzer**](https://github.com/mudassarkhn) | Real-time vehicle and license plate detection using YOLO and PaddleOCR | `Python` `YOLO` `PaddleOCR` `Flask` |
 
 ---
 
@@ -108,14 +112,13 @@ I specialize in **LLM-powered applications**, **RAG pipelines**, and **AI agents
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudassarkhn&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=c9d1d9&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarkhn&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=c9d1d9&amp;langs_count=8" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mudassarkhn&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=c9d1d9" alt="GitHub Stats" />
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarkhn&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=c9d1d9&amp;langs_count=8" alt="Top Languages" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img width="55%" src="https://nirzak-streak-stats.vercel.app/?user=mudassarkhn&amp;hide_border=true&amp;background=0d1117&amp;stroke=00d4ff&amp;ring=00d4ff&amp;fire=00d4ff&amp;currStreakLabel=00d4ff&amp;sideLabels=c9d1d9&amp;sideNums=ffffff&amp;dates=888888" />
+<img width="55%" src="https://nirzak-streak-stats.vercel.app/?user=mudassarkhn&amp;hide_border=true&amp;background=0d1117&amp;stroke=00d4ff&amp;ring=00d4ff&amp;fire=ff6b6b&amp;currStreakLabel=00d4ff&amp;sideLabels=c9d1d9&amp;sideNums=ffffff&amp;dates=888888" alt="GitHub Streak" />
 
 </div>
 
@@ -125,7 +128,7 @@ I specialize in **LLM-powered applications**, **RAG pipelines**, and **AI agents
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mudassarkhn&amp;bg_color=0d1117&amp;color=00d4ff&amp;line=0096c7&amp;point=ffffff&amp;area_color=0d1b2a&amp;area=true&amp;hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mudassarkhn&amp;bg_color=0d1117&amp;color=00d4ff&amp;line=0096c7&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -135,7 +138,7 @@ I specialize in **LLM-powered applications**, **RAG pipelines**, and **AI agents
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mudassarkhn&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" />
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=mudassarkhn&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -145,16 +148,20 @@ I specialize in **LLM-powered applications**, **RAG pipelines**, and **AI agents
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mudassarkhan.netlify.app-00d4ff?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1b2a)](https://mudassarkhan.netlify.app/)
+<a href="https://mudassarkhan.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-mudassarkhan.netlify.app-00d4ff?style=for-the-badge&amp;logo=netlify&amp;logoColor=white&amp;labelColor=0d1b2a" alt="Portfolio" />
+</a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-mudassarkhn-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1b2a)](https://github.com/mudassarkhn)
+<a href="https://github.com/mudassarkhn">
+  <img src="https://img.shields.io/badge/GitHub-mudassarkhn-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1b2a" alt="GitHub" />
+</a>
 
 <br/><br/>
 
-*"AI isn't just about models — it's about building practical solutions that reduce manual effort, solve real problems, and scale effectively."*
+<em>"AI isn't just about models — it's about building practical solutions that reduce manual effort, solve real problems, and scale effectively."</em>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1b2838,60:0d1b2a,100:0a0a0a&amp;height=120&amp;section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1b2838,60:0d1b2a,100:0a0a0a&amp;height=120&amp;section=footer" alt="Footer" />
 
 </div>
