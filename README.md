@@ -12,9 +12,9 @@
 <a href="https://github.com/mudassarkhn">
   <img src="https://komarev.com/ghpvc/?username=mudassarkhn&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
 </a>
-<a href="https://github.com/mudassarkhn?tab=followers">
+<!-- <a href="https://github.com/mudassarkhn?tab=followers">
   <img src="https://img.shields.io/github/followers/mudassarkhn?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e" alt="Followers"/>
-</a>
+</a> -->
 
 </div>
 
@@ -38,14 +38,11 @@
 
 🌍 Based in **Pakistan 🇵🇰** &nbsp;|&nbsp; 🌙 **InshAllah**
 
-    </td>
-    <td valign="top" width="40%" align="center">
-
+   
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
 
 
-    </td>
-  </tr>
+  
 </table>
 
 ---
