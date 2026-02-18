@@ -205,7 +205,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://mudassarkhn.netlify.app">
+<a href="https://mudassarkhan.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
