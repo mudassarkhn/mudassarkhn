@@ -43,13 +43,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="coding gif"/>
 
-```
-🧠  LLM Applications
-🔗  RAG Pipelines
-🤖  Agentic Workflows
-👁️  Computer Vision
-⚙️  Backend Integration
-```
 
     </td>
   </tr>
@@ -211,8 +204,6 @@
 
 </div>
 
-> ⚡ *If stats don't load, try refreshing — GitHub's API has rate limits.*
-
 ---
 
 ## 🤝 Let's Connect
@@ -227,7 +218,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="#">
+<a href="mudassarkhn.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
