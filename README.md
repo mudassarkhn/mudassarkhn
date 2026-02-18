@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mudassar%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Agentic%20AI&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mudassar%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Agentic%20AI&descSize=18&descAlignY=58&descColor=#3d85c6&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+AI+Systems+%F0%9F%A4%96;LLM+%7C+RAG+%7C+Agentic+Workflows+%F0%9F%94%97;From+Prototype+to+Production+%F0%9F%9A%80;Turning+Data+into+Smart+Decisions+%F0%9F%A7%A0" alt="Typing SVG" />
