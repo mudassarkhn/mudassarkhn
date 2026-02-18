@@ -24,24 +24,23 @@
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td width="60%" valign="top">
 
-### 👋 Hey, I'm Mudassar Khan!
+<h3>👋 Hey, I'm Mudassar Khan!</h3>
 
-🤖 **AI Engineer** with **1+ year** of experience building intelligent systems powered by **LLMs** and **agent-based architectures**
+<p>🤖 <b>AI Engineer</b> with <b>1+ year</b> of experience building intelligent systems powered by <b>LLMs</b> and <b>agent-based architectures</b>.</p>
 
-🔍 I specialize in **domain-focused AI assistants**, **RAG pipelines**, and **multi-step agentic workflows** that connect data, reasoning, and APIs into real, production-ready applications
+<p>🔍 I specialize in <b>domain-focused AI assistants</b>, <b>RAG pipelines</b>, and <b>multi-step agentic workflows</b> that connect data, reasoning, and APIs into real, production-ready applications.</p>
 
-🏗️ My work goes beyond prototypes — I focus on **reliability**, **structured thinking**, and **scalable backend integration**
+<p>🏗️ My work goes beyond prototypes — I focus on <b>reliability</b>, <b>structured thinking</b>, and <b>scalable backend integration</b>.</p>
 
-🎯 Mission: Build AI that is not just impressive — but **genuinely useful** in real-world environments
+<p>🎯 Mission: Build AI that is not just impressive — but <b>genuinely useful</b> in real-world environments.</p>
 
     </td>
 
     <td width="40%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
     </td>
-
   </tr>
 </table>
 
