@@ -31,7 +31,7 @@
 <p>🎯 Mission: Build AI that is not just impressive — but <b>genuinely useful</b> in real-world environments.</p>
     </td>
     <td width="60%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
     </td>
   </tr>
 </table>
@@ -205,7 +205,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mudassarkhn.netlify.app">
+<a href="https://mudassarkhn.netlify.app">
   <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
